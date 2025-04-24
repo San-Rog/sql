@@ -3,3 +3,4 @@ sqlalchemy
 mysqlclient=2.2.7
 flask_sqlalchemy
 pandas
+mysql-python
