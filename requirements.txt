@@ -1,5 +1,4 @@
 streamlit
 sqlalchemy
 flask_sqlalchemy
-streamlit.runtime.secrets
 pandas
