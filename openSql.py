@@ -20,7 +20,7 @@ bdSql = 'devmedia2'
 table = 'tabelaz'
 
 #abertura do arquivo
-conn = st.connection(name='mysql', **st.secrets['conections.mysql'], ttl=600)
+conn = st.connection(name='', **st.secrets['conections.mysql'], ttl=600)
 
 #pesquisa de todos os registros
 allData = conn.query(f"SELECT * from {table}")
