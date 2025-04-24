@@ -2,4 +2,3 @@ streamlit
 sqlalchemy
 flask_sqlalchemy
 pandas
-streamlit.runtime.secrets
