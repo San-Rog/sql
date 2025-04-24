@@ -2,3 +2,4 @@ streamlit
 sqlalchemy
 flask_sqlalchemy
 pandas
+python 3.10
