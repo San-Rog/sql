@@ -1,6 +1,6 @@
 streamlit
 sqlalchemy
-mysqlclient
+mysqlclient==2.2.2
 flask_sqlalchemy
 pandas
 
